@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gnm:Workbook xmlns:gnm="http://www.gnumeric.org/v10.dtd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gnumeric.org/v9.xsd">
+  <gnm:Version Epoch="1" Major="12" Minor="55" Full="1.12.55"/>
+  <gnm:Attributes>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_horizontal_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_vertical_scrollbar</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::show_notebook_tabs</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::do_auto_completion</gnm:name>
+      <gnm:value>TRUE</gnm:value>
+    </gnm:Attribute>
+    <gnm:Attribute>
+      <gnm:name>WorkbookView::is_protected</gnm:name>
+      <gnm:value>FALSE</gnm:value>
+    </gnm:Attribute>
+  </gnm:Attributes>
+  <office:document-meta xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:ooo="http://openoffice.org/2004/office" office:version="1.2">
+    <office:meta>
+      <dc:date>2023-07-08T17:07:09Z</dc:date>
+      <meta:creation-date>2023-07-08T16:48:01Z</meta:creation-date>
+    </office:meta>
+  </office:document-meta>
+  <gnm:Calculation ManualRecalc="0" EnableIteration="1" MaxIterations="100" IterationTolerance="0.001" FloatRadix="2" FloatDigits="53"/>
+  <gnm:SheetNameIndex>
+    <gnm:SheetName gnm:Cols="256" gnm:Rows="65536">Sheet1</gnm:SheetName>
+  </gnm:SheetNameIndex>
+  <gnm:Geometry Width="1920" Height="829"/>
+  <gnm:Sheets>
+    <gnm:Sheet DisplayFormulas="0" HideZero="0" HideGrid="0" HideColHeader="0" HideRowHeader="0" DisplayOutlines="1" OutlineSymbolsBelow="1" OutlineSymbolsRight="1" Visibility="GNM_SHEET_VISIBILITY_VISIBLE" GridColor="0:0:0">
+      <gnm:Name>Sheet1</gnm:Name>
+      <gnm:MaxCol>9</gnm:MaxCol>
+      <gnm:MaxRow>15</gnm:MaxRow>
+      <gnm:Zoom>1</gnm:Zoom>
+      <gnm:Names>
+        <gnm:Name>
+          <gnm:name>Print_Area</gnm:name>
+          <gnm:value>#REF!</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+        <gnm:Name>
+          <gnm:name>Sheet_Title</gnm:name>
+          <gnm:value>&quot;Sheet1&quot;</gnm:value>
+          <gnm:position>A1</gnm:position>
+        </gnm:Name>
+      </gnm:Names>
+      <gnm:PrintInformation>
+        <gnm:Margins>
+          <gnm:top Points="120" PrefUnit="mm"/>
+          <gnm:bottom Points="120" PrefUnit="mm"/>
+          <gnm:left Points="72" PrefUnit="mm"/>
+          <gnm:right Points="72" PrefUnit="mm"/>
+          <gnm:header Points="72" PrefUnit="mm"/>
+          <gnm:footer Points="72" PrefUnit="mm"/>
+        </gnm:Margins>
+        <gnm:Scale type="percentage" percentage="100"/>
+        <gnm:vcenter value="0"/>
+        <gnm:hcenter value="0"/>
+        <gnm:grid value="0"/>
+        <gnm:even_if_only_styles value="0"/>
+        <gnm:monochrome value="0"/>
+        <gnm:draft value="0"/>
+        <gnm:titles value="0"/>
+        <gnm:do_not_print value="0"/>
+        <gnm:print_range value="GNM_PRINT_ACTIVE_SHEET"/>
+        <gnm:order>d_then_r</gnm:order>
+        <gnm:orientation>portrait</gnm:orientation>
+        <gnm:Header Left="" Middle="&amp;[TAB]" Right=""/>
+        <gnm:Footer Left="" Middle="Page &amp;[PAGE]" Right=""/>
+        <gnm:paper>iso_a4</gnm:paper>
+        <gnm:comments placement="GNM_PRINT_COMMENTS_IN_PLACE"/>
+        <gnm:errors PrintErrorsAs="GNM_PRINT_ERRORS_AS_DISPLAYED"/>
+      </gnm:PrintInformation>
+      <gnm:Styles>
+        <gnm:StyleRegion startCol="0" startRow="0" endCol="7" endRow="0">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="1" endCol="4" endRow="15">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="0" startRow="16" endCol="255" endRow="65535">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="5" startRow="1" endCol="6" endRow="15">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.00">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="7" startRow="1" endCol="7" endRow="15">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="0.000000">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+        <gnm:StyleRegion startCol="8" startRow="0" endCol="255" endRow="15">
+          <gnm:Style HAlign="GNM_HALIGN_GENERAL" VAlign="GNM_VALIGN_BOTTOM" WrapText="0" ShrinkToFit="0" Rotation="0" Shade="0" Indent="0" Locked="1" Hidden="0" Fore="0:0:0" Back="FFFF:FFFF:FFFF" PatternColor="0:0:0" Format="General">
+            <gnm:Font Unit="10" Bold="0" Italic="0" Underline="0" StrikeThrough="0" Script="0">Sans</gnm:Font>
+          </gnm:Style>
+        </gnm:StyleRegion>
+      </gnm:Styles>
+      <gnm:Cols DefaultSizePts="67.5">
+        <gnm:ColInfo No="0" Unit="205.5"/>
+        <gnm:ColInfo No="1" Unit="61.5" Count="2"/>
+        <gnm:ColInfo No="3" Unit="45.75"/>
+        <gnm:ColInfo No="4" Unit="338.2"/>
+        <gnm:ColInfo No="5" Unit="78"/>
+        <gnm:ColInfo No="6" Unit="53.25"/>
+        <gnm:ColInfo No="7" Unit="48.75"/>
+        <gnm:ColInfo No="8" Unit="1891"/>
+      </gnm:Cols>
+      <gnm:Rows DefaultSizePts="15"/>
+      <gnm:Selections CursorCol="5" CursorRow="1">
+        <gnm:Selection startCol="5" startRow="1" endCol="5" endRow="1"/>
+      </gnm:Selections>
+      <gnm:Cells>
+        <gnm:Cell Row="0" Col="0" ValueType="60">name</gnm:Cell>
+        <gnm:Cell Row="0" Col="1" ValueType="60">chemistry</gnm:Cell>
+        <gnm:Cell Row="0" Col="2" ValueType="60">missing-cap?</gnm:Cell>
+        <gnm:Cell Row="0" Col="3" ValueType="60">mah/unit</gnm:Cell>
+        <gnm:Cell Row="0" Col="4" ValueType="60">quantity</gnm:Cell>
+        <gnm:Cell Row="0" Col="5" ValueType="60">cost/unit</gnm:Cell>
+        <gnm:Cell Row="0" Col="6" ValueType="60">shipping</gnm:Cell>
+        <gnm:Cell Row="0" Col="7" ValueType="60">cost/mah</gnm:Cell>
+        <gnm:Cell Row="0" Col="8" ValueType="60">url</gnm:Cell>
+        <gnm:Cell Row="1" Col="0" ValueType="60">varta industrial</gnm:Cell>
+        <gnm:Cell Row="1" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="1" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="1" Col="3" ValueType="40">2600</gnm:Cell>
+        <gnm:Cell Row="1" Col="4" ValueType="40">1200</gnm:Cell>
+        <gnm:Cell Row="1" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.35999999999999999</gnm:Cell>
+        <gnm:Cell Row="1" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">4.9900000000000002</gnm:Cell>
+        <gnm:Cell Row="1" Col="7" ExprID="1">=(E2*F2+G2)/(E2*D2)</gnm:Cell>
+        <gnm:Cell Row="1" Col="8" ValueType="60">https://www.reichelt.com/gb/en/?LANGUAGE=EN&amp;CTYPE=0&amp;MWSTFREE=0&amp;CCOUNTRY=447&amp;ARTICLE=203373&amp;PROVID=2788&amp;wt_guka=54950999515_263550067880&amp;PROVID=2788&amp;gclid=CjwKCAjwo87YBRBgEiwAI1LkqfVbycH7PPmuBp42cf_G6jYLELCFwgHx3moOxj0Yxz6C1LwbwEvmdhoCBaQQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="2" Col="0" ValueType="60">sony ultra heavy duty</gnm:Cell>
+        <gnm:Cell Row="2" Col="1" ValueType="60">zinc-carbon</gnm:Cell>
+        <gnm:Cell Row="2" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="2" Col="3" ValueType="40">1480</gnm:Cell>
+        <gnm:Cell Row="2" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="2" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.46000000000000002</gnm:Cell>
+        <gnm:Cell Row="2" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.1399999999999999</gnm:Cell>
+        <gnm:Cell Row="2" Col="7" ExprID="1"/>
+        <gnm:Cell Row="2" Col="8" ValueType="60">http://www.volthut.com/product.aspx?id=3909&amp;af=11&amp;gclid=CjwKCAjwo87YBRBgEiwAI1Lkqbogwkf-g2p3j-Sx1qk0Jqopey0Yu8izMDgJGdKxfI3xTtjNj2uKpRoCddIQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="3" Col="0" ValueType="60">duracell industrial(formerly duracell procell)</gnm:Cell>
+        <gnm:Cell Row="3" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="3" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="3" Col="3" ValueType="40">214800</gnm:Cell>
+        <gnm:Cell Row="3" Col="4" ValueType="40">12</gnm:Cell>
+        <gnm:Cell Row="3" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">29.989999999999998</gnm:Cell>
+        <gnm:Cell Row="3" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="3" Col="7" ExprID="1"/>
+        <gnm:Cell Row="3" Col="8" ValueType="60">https://www.google.com/shopping/product/2706010223671603830?q=aa%20battery&amp;client=firefox-b-ab&amp;biw=1920&amp;bih=933&amp;prds=paur:ClkAsKraXyoRLQAbeEeijJKBbiVQEE3G9nSDGC2uXTBM_w2qHKrOp0u_5Uiy-jwNnbSpaCsU0wg620K0z2foRQ6adYbf_KDrr_qRR9KvA5pVHY6PRDRlBh26gRIZAFPVH73gc3tbHex-RulncuKGLauk_YfdRw,start:10&amp;sa=X&amp;ved=0ahUKEwjB98HthbjbAhXnJMAKHR5lACQQ8wIIhww</gnm:Cell>
+        <gnm:Cell Row="4" Col="0" ValueType="60">gp super alkaline</gnm:Cell>
+        <gnm:Cell Row="4" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="4" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="4" Col="3" ValueType="40">178480</gnm:Cell>
+        <gnm:Cell Row="4" Col="4" ValueType="40">15</gnm:Cell>
+        <gnm:Cell Row="4" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">10.220000000000001</gnm:Cell>
+        <gnm:Cell Row="4" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">2.9500000000000002</gnm:Cell>
+        <gnm:Cell Row="4" Col="7" ExprID="1"/>
+        <gnm:Cell Row="4" Col="8" ValueType="60">https://boxed2.co.uk/gpbattery-gp-alkaline-batteries-bulk-pack?language=en&amp;currency=GBP&amp;gclid=CjwKCAjwo87YBRBgEiwAI1LkqWcJHkzUzsWojUjo2qE_8EIbL2EilhZKrpesopXRvjl7rB3pOdNgvRoCB_0QAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="5" Col="0" ValueType="60">panasonic zinc&quot;red special power&quot;</gnm:Cell>
+        <gnm:Cell Row="5" Col="1" ValueType="60">zinc-carbon</gnm:Cell>
+        <gnm:Cell Row="5" Col="2" ValueType="60">y</gnm:Cell>
+        <gnm:Cell Row="5" Col="3" ValueType="40">4000</gnm:Cell>
+        <gnm:Cell Row="5" Col="4" ValueType="40">120</gnm:Cell>
+        <gnm:Cell Row="5" Col="5" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">1</gnm:Cell>
+        <gnm:Cell Row="5" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="5" Col="7" ExprID="1"/>
+        <gnm:Cell Row="5" Col="8" ValueType="60">http://www.concordextra.com/product/6877/Household/PANASONIC+BATTERY+ZINC+AA+BATTERIES+10+PACK/?gclid=Cj0KCQjwxtPYBRD6ARIsAKs1XJ4itNCOQ9dhdXpyYOyDeLvJIXmqgUHho0CmESXbJ-unA--B9UL3ml8aAspAEALw_wcB</gnm:Cell>
+        <gnm:Cell Row="6" Col="0" ValueType="60">agfaphoto platinum</gnm:Cell>
+        <gnm:Cell Row="6" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="6" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="6" Col="3" ValueType="40">10400</gnm:Cell>
+        <gnm:Cell Row="6" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="6" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.5</gnm:Cell>
+        <gnm:Cell Row="6" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="6" Col="7" ExprID="1"/>
+        <gnm:Cell Row="6" Col="8" ValueType="60">https://www.hobgoblin.com/local/sales/products/GR02022/platinum-agfaphoto-aa-batteries-4-pack/?gclid=CjwKCAjwo87YBRBgEiwAI1LkqYqD5MuHqfRb8Hzrt7ID7AbCuhGX4B5mOP6vfqSYQEmLs8uUpoOvwxoC2dkQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="7" Col="0" ValueType="60">gp greencell</gnm:Cell>
+        <gnm:Cell Row="7" Col="1" ValueType="60">zinc-chloride</gnm:Cell>
+        <gnm:Cell Row="7" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="7" Col="3" ValueType="40">4400</gnm:Cell>
+        <gnm:Cell Row="7" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="7" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.69999999999999996</gnm:Cell>
+        <gnm:Cell Row="7" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.1399999999999999</gnm:Cell>
+        <gnm:Cell Row="7" Col="7" ExprID="1"/>
+        <gnm:Cell Row="7" Col="8" ValueType="60">http://www.volthut.com/product.aspx?id=2596&amp;af=11&amp;gclid=CjwKCAjwo87YBRBgEiwAI1LkqR33zS5frsd87-TZtE5f7RglYuILb6bBcMymcLfoMqkF095r4c3WWRoCtrQQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="8" Col="0" ValueType="60">philips powerlife</gnm:Cell>
+        <gnm:Cell Row="8" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="8" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="8" Col="3" ValueType="40">9200</gnm:Cell>
+        <gnm:Cell Row="8" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="8" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.84999999999999998</gnm:Cell>
+        <gnm:Cell Row="8" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.1599999999999999</gnm:Cell>
+        <gnm:Cell Row="8" Col="7" ExprID="1"/>
+        <gnm:Cell Row="8" Col="8" ValueType="60">http://www.volthut.com/product.aspx?id=2706&amp;af=11&amp;gclid=CjwKCAjwo87YBRBgEiwAI1LkqRRySSzAqQ4qhhE0wbDppx-MFPRt1szVkZzeh0igRz5gkf6s0-vsLxoCMA8QAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="9" Col="0" ValueType="60">energizer max(formerly energizer ultra+)</gnm:Cell>
+        <gnm:Cell Row="9" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="9" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="9" Col="3" ValueType="40">11400</gnm:Cell>
+        <gnm:Cell Row="9" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="9" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">2.1499999999999999</gnm:Cell>
+        <gnm:Cell Row="9" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="9" Col="7" ExprID="1"/>
+        <gnm:Cell Row="9" Col="8" ValueType="60">https://www.ebay.co.uk/itm/4-x-AA-Energizer-Alkaline-Power-Batteries-AM3-LR06-Mignon-Stilo-/331978907311?_trksid=p2349526.m4383.l4275.c10</gnm:Cell>
+        <gnm:Cell Row="10" Col="0" ValueType="60">duracell ultra power</gnm:Cell>
+        <gnm:Cell Row="10" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="10" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="10" Col="3" ValueType="40">9200</gnm:Cell>
+        <gnm:Cell Row="10" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="10" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">2.1000000000000001</gnm:Cell>
+        <gnm:Cell Row="10" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.75</gnm:Cell>
+        <gnm:Cell Row="10" Col="7" ExprID="1"/>
+        <gnm:Cell Row="10" Col="8" ValueType="60">https://www.batterystation.co.uk/aa-batteries/duracell-ultra-aa-mn1500-lr6-1-5v-battery-4-pack?gclid=Cj0KCQjwxtPYBRD6ARIsAKs1XJ49Olj2X92_lALMc8z4XWl-MkJN4uq3ho-LhfZ82LdXZ-VGsvDC1cwaAjqyEALw_wcB</gnm:Cell>
+        <gnm:Cell Row="11" Col="0" ValueType="60">philips industrial</gnm:Cell>
+        <gnm:Cell Row="11" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="11" Col="2" ValueType="60">y</gnm:Cell>
+        <gnm:Cell Row="11" Col="3" ValueType="40">54000</gnm:Cell>
+        <gnm:Cell Row="11" Col="4" ValueType="40">40</gnm:Cell>
+        <gnm:Cell Row="11" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">7.6900000000000004</gnm:Cell>
+        <gnm:Cell Row="11" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="11" Col="7" ExprID="1"/>
+        <gnm:Cell Row="11" Col="8" ValueType="60">https://www.ebay.co.uk/itm/30-x-Philips-AA-Industrial-Alkaline-Batteries-1-5V-LR6-MN1500-MIGNON-Expiry-2028-/113026825873?_trksid=p2385738.m4383.l4275.c10</gnm:Cell>
+        <gnm:Cell Row="12" Col="0" ValueType="60">energizer industrial</gnm:Cell>
+        <gnm:Cell Row="12" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="12" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="12" Col="3" ValueType="40">28500</gnm:Cell>
+        <gnm:Cell Row="12" Col="4" ValueType="40">120</gnm:Cell>
+        <gnm:Cell Row="12" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">2.5899999999999999</gnm:Cell>
+        <gnm:Cell Row="12" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">7.1900000000000004</gnm:Cell>
+        <gnm:Cell Row="12" Col="7" ExprID="1"/>
+        <gnm:Cell Row="12" Col="8" ValueType="60">https://eu.nkon.nl/10aa-energizer-industrial.html?gclid=CjwKCAjws8vaBRBFEiwAQfhs-CljqmXmOUF4kWT1Syc1xxN6jVm_84UllIni3zoHW1NtB7RStTnKPhoCIgYQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="13" Col="0" ValueType="60">jcb professional super</gnm:Cell>
+        <gnm:Cell Row="13" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="13" Col="2" ValueType="60">y</gnm:Cell>
+        <gnm:Cell Row="13" Col="3" ValueType="40">18000</gnm:Cell>
+        <gnm:Cell Row="13" Col="4" ValueType="40">120</gnm:Cell>
+        <gnm:Cell Row="13" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.98999999999999999</gnm:Cell>
+        <gnm:Cell Row="13" Col="6" ValueType="40" ValueFormat="£#,##0_);[Red](£#,##0)">0</gnm:Cell>
+        <gnm:Cell Row="13" Col="7" ExprID="1"/>
+        <gnm:Cell Row="13" Col="8" ValueType="60">https://www.ukdapper.co.uk/jcb-s5446-industrial-super-alkaline-1-5v-aa-batteries-pack-of-10.html?gclid=CjwKCAjws8vaBRBFEiwAQfhs-FhXoCppgEW9eN9c-riT7GsGSy1egfYo-rvBieEmFtwhq7jdc6Yc4RoCWuEQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="14" Col="0" ValueType="60">jcb super</gnm:Cell>
+        <gnm:Cell Row="14" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="14" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="14" Col="3" ValueType="40">9600</gnm:Cell>
+        <gnm:Cell Row="14" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="14" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">1.0700000000000001</gnm:Cell>
+        <gnm:Cell Row="14" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">3.98</gnm:Cell>
+        <gnm:Cell Row="14" Col="7" ExprID="1"/>
+        <gnm:Cell Row="14" Col="8" ValueType="60">https://www.internationalleds.co.uk/home-led-lighting/jcb-lr6-15v-aa-batteries-super-alkaline/8226?gclid=CjwKCAjws8vaBRBFEiwAQfhs-JIzi2nOvGsMniGApdVRUXy1qSdAzON9xmIzRy6cJXHBJJPmFqdfQRoCJYEQAvD_BwE</gnm:Cell>
+        <gnm:Cell Row="15" Col="0" ValueType="60">texcus maximum</gnm:Cell>
+        <gnm:Cell Row="15" Col="1" ValueType="60">alkaline</gnm:Cell>
+        <gnm:Cell Row="15" Col="2" ValueType="60">n</gnm:Cell>
+        <gnm:Cell Row="15" Col="3" ValueType="40">10800</gnm:Cell>
+        <gnm:Cell Row="15" Col="4" ValueType="40">300</gnm:Cell>
+        <gnm:Cell Row="15" Col="5" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">0.92000000000000004</gnm:Cell>
+        <gnm:Cell Row="15" Col="6" ValueType="40" ValueFormat="£#,##0.00_);[Red](£#,##0.00)">6.8399999999999999</gnm:Cell>
+        <gnm:Cell Row="15" Col="7" ExprID="1"/>
+        <gnm:Cell Row="15" Col="8" ValueType="60">https://www.tme.eu/gb/details/bat-lr6_tx-bl/batteries/tecxus/11009/?brutto=1&amp;gclid=CjwKCAjws8vaBRBFEiwAQfhs-KI0ZLRWd7zkQ9tDzoHt-pjV6AAp5WiqOdq1Vpq5kHG2aG9MSb40EBoCI0IQAvD_BwE</gnm:Cell>
+      </gnm:Cells>
+      <gnm:SheetLayout TopLeft="A1"/>
+      <gnm:Solver ModelType="0" ProblemType="0" MaxTime="60" MaxIter="1000" NonNeg="1" Discr="0" AutoScale="0" ProgramR="0" SensitivityR="0"/>
+    </gnm:Sheet>
+  </gnm:Sheets>
+  <gnm:UIData SelectedTab="0"/>
+</gnm:Workbook>
